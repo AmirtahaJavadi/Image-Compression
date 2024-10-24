@@ -3,10 +3,10 @@ from skimage import io
 import matplotlib.pyplot as plt
 import numpy as np
 image = io.imread("sample.jpg")
-plt.imshow(image)
-plt.axis('off')
-plt.title("Original Image")
-plt.show()
+# plt.imshow(image)
+# plt.axis('off')
+# plt.title("Original Image")
+# plt.show()
 pixels = image.reshape(-1, 3)
 k = 8  # You can change this value to see different compression levels
 kmeans = KMeans(n_clusters=k)
