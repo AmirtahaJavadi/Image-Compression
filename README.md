@@ -52,23 +52,23 @@ To use the image compression tool, run the script from the command line with the
 
 input image:
 
-![example image](https://i.postimg.cc/0jd48n2G/Nikon-1-V3-sample-photo.jpg)
+![example image](https://imgur.com/PhCDiO0)
 
 output (using 32 clusters):
 
-![example image(32)](https://i.postimg.cc/k4CFnmVZ/sample2.png)
+![example image(32)](https://imgur.com/RSdwC6n)
 
 output (using 16 clusters):
 
-![example image(16)](https://i.postimg.cc/wjtk2F8W/sample1.png)
+![example image(16)](https://imgur.com/n44kzXi)
 
 output (using 8 clusters):
 
-![example image(8)](https://i.postimg.cc/65qV6z39/sample3.png)
+![example image(8)](https://imgur.com/KYdzgff)
 
 output (using 4 clusters):
 
-![example image(4)](https://i.postimg.cc/JnRJf5vC/sample4.png)
+![example image(4)](https://imgur.com/jFkhzTV)
 
 ## acknowledgements
 
