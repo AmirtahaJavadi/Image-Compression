@@ -29,7 +29,6 @@ Image compression is a common technique used to reduce the file size of images w
 
 - Python 3.x
 - NumPy
-- OpenCV (or PIL for image processing)
 - Matplotlib (for visualization, if applicable)
 - scikit-learn (for K-means algorithm)
 
