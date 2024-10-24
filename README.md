@@ -56,19 +56,19 @@ input image:
 
 output (using 32 clusters):
 
-![example image(32)](https://imgur.com/RSdwC6n)
+![example image(32)](sample2.png)
 
 output (using 16 clusters):
 
-![example image(16)](https://imgur.com/n44kzXi)
+![example image(16)](sample1.png)
 
 output (using 8 clusters):
 
-![example image(8)](https://imgur.com/KYdzgff)
+![example image(8)](sample3.png)
 
 output (using 4 clusters):
 
-![example image(4)](https://imgur.com/jFkhzTV)
+![example image(4)](sample4.png)
 
 ## acknowledgements
 
