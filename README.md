@@ -52,7 +52,7 @@ To use the image compression tool, run the script from the command line with the
 
 input image:
 
-![example image]("./sample.jpg")
+![example image](sample.jpg)
 
 output (using 32 clusters):
 
